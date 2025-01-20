@@ -405,7 +405,7 @@ def offset_y():
 
 
 #"SPACE 2 : Binary star."
-'''
+
 particles = [ Particle(3000, 10, 0, 0, 0, 0, -30,yellow), Particle(3000, 10, 0, 50, 0, 0, 30,yellow),Particle(4, 3, 0, 130, 0, 0, 40, red),Particle(9, 4, 0, 360, 0, 0, 25, green), Particle(3, 2, 0, 378, 0, 0, 29, white)]
 
 # Optional Extra particles.
